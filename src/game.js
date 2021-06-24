@@ -31,6 +31,7 @@ export default class Game {
 
     return win
   }
+  
 
   colWin () {
     let win = false
